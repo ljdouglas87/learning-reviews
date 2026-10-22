@@ -3,7 +3,7 @@
   "type": "course",
   "url": "https://www.simplilearn.com/",
   "creator": "Simplilearn",
-  "rating": 6,
+  "rating": 5,
   "reviewer": "Lorenzo Douglas",
   "date": "2026-10-21",
   "review": "I learned how GitHub Actions workflows automate testing, building, and deployment. The hands-on exercises helped me connect Git changes with pipeline runs and understand how validation protects a published website.",
